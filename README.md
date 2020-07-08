@@ -6,6 +6,7 @@ This my personal list of recommended problems to do for interview preparation.
 - https://leetcode.com/problems/product-of-array-except-self/
 - https://leetcode.com/problems/maximum-subarray/
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+- https://leetcode.com/problems/move-zeroes/
 # Hashes
 -  https://leetcode.com/problems/two-sum/
 # Linked Lists 
@@ -24,7 +25,9 @@ This my personal list of recommended problems to do for interview preparation.
 # Heaps 
 # Tries 
 - https://leetcode.com/problems/implement-trie-prefix-tree/
-# Queues 
+# Queues / Stacks 
+- https://leetcode.com/problems/implement-queue-using-stacks/
+- https://leetcode.com/problems/valid-parentheses/
 # Sliding Window 
 # Two Pointer 
 - https://leetcode.com/problems/valid-palindrome/
