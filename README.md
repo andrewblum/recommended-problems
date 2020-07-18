@@ -3,6 +3,7 @@ This my personal list of recommended problems to do for interview preparation.
 # Graphs 
 - https://leetcode.com/problems/number-of-islands/
 - https://leetcode.com/problems/course-schedule/
+- https://leetcode.com/problems/course-schedule-ii/
 - https://leetcode.com/problems/rotting-oranges/
 - https://leetcode.com/problems/pacific-atlantic-water-flow/
 # Arrays
