@@ -12,7 +12,8 @@ This my personal list of recommended problems to do for interview preparation.
 - https://leetcode.com/problems/move-zeroes/
 - https://leetcode.com/problems/3sum/
 # Hashes
--  https://leetcode.com/problems/two-sum/
+- https://leetcode.com/problems/two-sum/
+- https://leetcode.com/problems/group-anagrams/
 # Linked Lists 
 - https://leetcode.com/problems/reverse-linked-list/
 - https://leetcode.com/problems/linked-list-cycle/
