@@ -28,6 +28,7 @@ This my personal list of recommended problems to do for interview preparation.
 - https://leetcode.com/problems/maximum-depth-of-binary-tree/
 - https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 # Heaps 
+- https://leetcode.com/problems/top-k-frequent-elements/
 # Tries 
 - https://leetcode.com/problems/implement-trie-prefix-tree/
 # Queues / Stacks 
