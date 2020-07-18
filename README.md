@@ -39,6 +39,8 @@ This my personal list of recommended problems to do for interview preparation.
 - https://leetcode.com/problems/valid-palindrome/
 # Dynamic Programming 
 - https://leetcode.com/problems/unique-paths/
+- https://leetcode.com/problems/coin-change/
+- https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 # Math / Binary 
 - https://leetcode.com/problems/missing-number/
 
