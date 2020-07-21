@@ -6,6 +6,7 @@ This my personal list of recommended problems to do for interview preparation.
 - https://leetcode.com/problems/course-schedule-ii/
 - https://leetcode.com/problems/rotting-oranges/
 - https://leetcode.com/problems/pacific-atlantic-water-flow/
+- https://leetcode.com/problems/word-search/
 # Arrays
 - https://leetcode.com/problems/product-of-array-except-self/
 - https://leetcode.com/problems/maximum-subarray/
