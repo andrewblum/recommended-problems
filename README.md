@@ -41,9 +41,9 @@ This my personal list of recommended problems to do for interview preparation.
 - https://leetcode.com/problems/valid-parentheses/
 # Recursion 
 - https://leetcode.com/problems/subsets/
-# Sliding Window 
-# Two Pointer 
+# Two Pointer / Sliding Window
 - https://leetcode.com/problems/valid-palindrome/
+- https://leetcode.com/problems/container-with-most-water/
 # Dynamic Programming 
 - https://leetcode.com/problems/unique-paths/
 - https://leetcode.com/problems/coin-change/
