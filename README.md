@@ -21,6 +21,7 @@ This my personal list of recommended problems to do for interview preparation.
 - https://leetcode.com/problems/merge-two-sorted-lists/
 # 2D Arrays 
 - https://leetcode.com/problems/spiral-matrix/
+- https://leetcode.com/problems/search-a-2d-matrix/
 # Strings
 - https://leetcode.com/problems/valid-anagram/
 - https://leetcode.com/problems/longest-palindromic-substring/
