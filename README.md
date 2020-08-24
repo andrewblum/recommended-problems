@@ -50,5 +50,8 @@ This my personal list of recommended problems to do for interview preparation.
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 # Math / Binary 
 - https://leetcode.com/problems/missing-number/
+# Combining Data Structures
+- https://leetcode.com/problems/lru-cache/
+- https://leetcode.com/problems/insert-delete-getrandom-o1/
 
 
