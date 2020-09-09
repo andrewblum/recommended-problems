@@ -52,6 +52,7 @@ This my personal list of recommended problems to do for interview preparation.
 - https://leetcode.com/problems/unique-paths/
 - https://leetcode.com/problems/coin-change/
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+- https://leetcode.com/problems/longest-increasing-subsequence
 # Math / Binary 
 - https://leetcode.com/problems/missing-number/
 # Combining Data Structures
