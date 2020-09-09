@@ -29,6 +29,7 @@ This my personal list of recommended problems to do for interview preparation.
 - https://leetcode.com/problems/valid-anagram/
 - https://leetcode.com/problems/longest-palindromic-substring/
 - https://leetcode.com/problems/longest-substring-without-repeating-characters/
+- https://leetcode.com/problems/add-strings
 # Trees 
 - https://leetcode.com/problems/maximum-depth-of-binary-tree/
 - https://leetcode.com/problems/kth-smallest-element-in-a-bst/
