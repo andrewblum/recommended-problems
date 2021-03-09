@@ -40,7 +40,8 @@ This my personal list of recommended problems to do for interview preparation.
 # Queues / Stacks 
 - https://leetcode.com/problems/implement-queue-using-stacks/
 - https://leetcode.com/problems/valid-parentheses/
-# Monotonic Stacks
+# Monotonic Stacks and Sequences 
+- https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
 - https://leetcode.com/problems/daily-temperatures
 - https://leetcode.com/problems/largest-rectangle-in-histogram/
 # Recursion 
