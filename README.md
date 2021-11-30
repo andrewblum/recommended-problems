@@ -63,3 +63,7 @@ This my personal list of recommended problems to do for interview preparation.
 - https://leetcode.com/problems/capacity-to-ship-packages-within-d-days
 # Greedy
 - https://leetcode.com/problems/task-scheduler/
+# Disjoint Sets and Union Find
+- https://leetcode.com/problems/min-cost-to-connect-all-points/
+- https://leetcode.com/problems/number-of-operations-to-make-network-connected/
+- 
