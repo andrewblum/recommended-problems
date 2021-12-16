@@ -33,6 +33,7 @@ This my personal list of recommended problems to do for interview preparation.
 # Trees 
 - https://leetcode.com/problems/maximum-depth-of-binary-tree/
 - https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+- https://leetcode.com/problems/time-needed-to-inform-all-employees/
 # Heaps 
 - https://leetcode.com/problems/top-k-frequent-elements/
 # Tries 
