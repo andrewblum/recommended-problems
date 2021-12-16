@@ -38,6 +38,7 @@ This my personal list of recommended problems to do for interview preparation.
 - https://leetcode.com/problems/top-k-frequent-elements/
 # Tries 
 - https://leetcode.com/problems/implement-trie-prefix-tree/
+- https://leetcode.com/problems/word-search-ii/
 # Queues / Stacks 
 - https://leetcode.com/problems/implement-queue-using-stacks/
 - https://leetcode.com/problems/valid-parentheses/
