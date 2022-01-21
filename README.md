@@ -62,7 +62,9 @@ This my personal list of recommended problems to do for interview preparation.
 - https://leetcode.com/problems/lru-cache/
 - https://leetcode.com/problems/insert-delete-getrandom-o1/
 # Binary Search 
+- https://leetcode.com/problems/search-in-rotated-sorted-array/
 - https://leetcode.com/problems/capacity-to-ship-packages-within-d-days
+- https://leetcode.com/problems/koko-eating-bananas/
 # Greedy
 - https://leetcode.com/problems/task-scheduler/
 # Disjoint Sets and Union Find
