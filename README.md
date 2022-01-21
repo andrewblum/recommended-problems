@@ -1,4 +1,8 @@
-This my personal list of recommended problems to do for interview preparation.
+This my personal list of recommended problems to do for interview preparation. 
+Aim to be able to do mediums in < 30 mins. 
+NOTE:
+- A problem often has valid approaches other than the category it's under. 
+- The fact there is a category at all is often a large hint that you would not normally have. 
 
 # Graphs 
 - https://leetcode.com/problems/number-of-islands/
@@ -24,6 +28,8 @@ This my personal list of recommended problems to do for interview preparation.
 - https://leetcode.com/problems/spiral-matrix/
 - https://leetcode.com/problems/search-a-2d-matrix/
 - https://leetcode.com/problems/set-matrix-zeroes/
+# Sorting 
+- https://leetcode.com/problems/merge-intervals/
 # Strings
 - https://leetcode.com/problems/positions-of-large-groups/
 - https://leetcode.com/problems/valid-anagram/
@@ -36,6 +42,7 @@ This my personal list of recommended problems to do for interview preparation.
 - https://leetcode.com/problems/time-needed-to-inform-all-employees/
 # Heaps 
 - https://leetcode.com/problems/top-k-frequent-elements/
+- https://leetcode.com/problems/kth-largest-element-in-an-array/
 # Tries 
 - https://leetcode.com/problems/implement-trie-prefix-tree/
 - https://leetcode.com/problems/word-search-ii/
@@ -70,4 +77,6 @@ This my personal list of recommended problems to do for interview preparation.
 # Disjoint Sets and Union Find
 - https://leetcode.com/problems/min-cost-to-connect-all-points/
 - https://leetcode.com/problems/number-of-operations-to-make-network-connected/
-- 
+# :) ?
+- https://leetcode.com/problems/trapping-rain-water/
+- https://leetcode.com/problems/median-of-two-sorted-arrays/
